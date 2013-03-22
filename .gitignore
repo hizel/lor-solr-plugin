@@ -1,0 +1,7 @@
+*~
+*.swp
+target
+*.iml
+*.ipr
+*.iws
+.idea
